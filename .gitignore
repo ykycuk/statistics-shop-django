@@ -120,7 +120,8 @@ venv.bak/
 
 # sftp configuration file
 sftp-config.json
-
+.dbdata
+.idea
 # Package control specific files Package
 Control.last-run
 Control.ca-list
